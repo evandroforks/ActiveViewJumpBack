@@ -50,15 +50,16 @@
     { "caption": "-" },
     { "command": "new_file", "caption": "New File" },
     { "command": "prompt_open_file", "caption": "Open File" },
+    { "command": "clone_file", "caption": "Clone This View" },
     {
         "caption": "Copy File Path",
         "children":
         [
+            { "command": "tabs_extra_file_path", "args": {"group": -1, "index": -1, "path_type": "name"}, "caption": "File Name" },
             { "command": "tabs_extra_file_path", "args": {"group": -1, "index": -1, "path_type": "path"}, "caption": "Full Path" },
-            { "command": "tabs_extra_file_path", "args": {"group": -1, "index": -1, "path_type": "name"}, "caption": "File Name" }
+            { "command": "tabs_extra_file_path", "args": {"group": -1, "index": -1, "path_type": "path_uri"}, "caption": "Full Path as URI" },
         ]
     },
-    { "command": "clone_file", "caption": "Clone This View" },
     { "caption": "-" },
     {
         "caption": "Compare With...",

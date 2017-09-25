@@ -14,7 +14,7 @@
                 ]
             },
             { "caption": "-" },
-            { "caption": "Quick Settings...", "command": "edit_selected_preferences" },
+            { "caption": "Quick Settings...", "command": "quick_settings_edit_preferences" },
             { "caption": "Window Settings...", "command": "sxs_select_file" },
             { "caption": "Re-Load Color Schemes", "command": "force_reload_sublime_color_scheme" },
             { "caption": "-" },

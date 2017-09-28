@@ -1,0 +1,6 @@
+[
+    // How to do the jump_back command from find panel?
+    // https://forum.sublimetext.com/t/how-to-do-the-jump-back-command-from-find-panel/25610
+    { "keys": ["ctrl+shift+keypad_minus"], "command": "my_jump_back" },
+    { "keys": ["ctrl+shift+keypad_plus"], "command": "my_jump_forward" },
+]

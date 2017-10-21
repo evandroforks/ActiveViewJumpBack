@@ -1,25 +1,9 @@
 [
     {
         "caption": "Project Specific",
+        "id": "2_row",
         "children":
         [
-            { "caption": "-" },
-            {
-                "caption": "Fuzzy Nav Here...",
-                "command": "fuzzy_start_from_file"
-            },
-            {
-                "caption": "Fuzzy Nav",
-                "command": "fuzzy_file_nav"
-            },
-            {
-                "caption": "Fuzzy Project Folders",
-                "command": "fuzzy_project_folder_load"
-            },
-            {
-                "caption": "Fuzzy BookMarks",
-                "command": "fuzzy_bookmarks_load"
-            },
             { "caption": "-"},
             { "caption": "Copy With Line Numbers", "command": "copy_with_line_numbers" },
             {
@@ -50,6 +34,7 @@
 
     {
         "caption": "Local History",
+        "id": "3_row",
         "children":
         [
             { "caption": "Show Unsaved Changes…", "command": "diff_changes" },

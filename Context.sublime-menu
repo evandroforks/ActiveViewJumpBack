@@ -1,6 +1,6 @@
 [
     {
-        "caption": "Project Specific Syntax",
+        "caption": "Project Specific",
         "children":
         [
             { "caption": "-" },
@@ -33,7 +33,6 @@
             { "caption": "-"},
             { "caption": "Mark selection for comparison", "command": "sbs_mark_sel" },
             { "caption": "Compare selection", "command": "sbs_compare", "args": { "compare_selections": true } },
-            { "caption": "Copy syntax setting to clipboard", "command": "project_specific_syntax_to_clipboard" },
             { "caption": "-" },
             { "command": "export_html_panel", "caption": "Export HTML" },
             { "command": "export_bbcode_panel", "caption": "Export BBCode"},

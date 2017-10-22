@@ -4,9 +4,6 @@
         "id": "3_row",
         "children":
         [
-            { "command": "google_spell_check" },
-            { "caption": "-" },
-
             {
                 "caption": "Color Helper",
                 "children":

@@ -4,7 +4,6 @@
         "id": "3_row",
         "children":
         [
-            { "caption": "Show Unsaved Changes…", "command": "diff_changes" },
             {
                 "id" : "highlight_build_errors",
                 "caption" : "Show Error Message",

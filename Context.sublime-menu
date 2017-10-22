@@ -4,12 +4,6 @@
         "id": "3_row",
         "children":
         [
-            { "caption": "Local History Browse", "command": "history_browse" },
-            { "caption": "Local History Open", "command": "history_open" },
-            { "caption": "Local History Compare", "command": "history_compare" },
-            { "caption": "Local History Replace", "command": "history_replace" },
-            { "caption": "Local History Incremental Diff", "command": "history_incremental_diff" },
-            { "caption": "-"},
             { "command": "gist", "caption": "Create Public Gist…" },
             { "command": "gist_private", "caption": "Create Private Gist…" },
             { "caption": "-"},

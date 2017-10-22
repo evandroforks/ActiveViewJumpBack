@@ -4,11 +4,6 @@
         "id": "3_row",
         "children":
         [
-            {
-                "id" : "highlight_build_errors",
-                "caption" : "Show Error Message",
-                "command" : "show_error_message"
-            },
             { "command": "google_spell_check" },
             { "caption": "-" },
 
